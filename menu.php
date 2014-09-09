@@ -1,0 +1,1 @@
+<p>Menu part</p>

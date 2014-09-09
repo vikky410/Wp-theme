@@ -1,0 +1,1 @@
+<a href="http://techdeka.com/"><div id="logo">  <img id="retina-logo" src="<?php echo get_option('of_logo') ?>" alt="techdeka" style="height:44px;"> </div></a>
